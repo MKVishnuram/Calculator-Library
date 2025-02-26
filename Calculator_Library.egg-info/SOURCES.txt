@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+Calculator_Library.egg-info/PKG-INFO
+Calculator_Library.egg-info/SOURCES.txt
+Calculator_Library.egg-info/dependency_links.txt
+Calculator_Library.egg-info/top_level.txt
+test/__init__.py
+test/calculator.py

@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: Calculator-Library
+Version: 1.0.0
+Summary: Testing the Calculator Library
+Author-email: Vishnuram <vishnurammk762@gmail.com>
+Project-URL: Homepage, https://github.com/MKVishnuram/Calculator-Library.git
+Project-URL: Bug Tracker, https://github.com/MKVishnuram/Calculator-Library.git/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Calculator-Library
